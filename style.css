@@ -1,0 +1,40 @@
+body {
+  background-color: lightblue;
+}
+.title {
+  text-align: Center;
+  font-family: cursive;
+  font-size:75px;
+}
+.TopPart {
+  background-color: cyan;
+  border-width: 10px;
+  border-style: dotted;
+}
+.pdf {
+  text-align: center;
+}
+.slogan {
+  text-align: center;
+  font-size: 40px;
+}
+iframe {
+  margin:0 auto;
+}
+.navbar {
+  background-color: darkred;
+  color: pink;
+  font-size: 20px;
+}
+a {
+  color: aqua;
+}
+.paragraph {
+  float:right;
+}
+.analysis {
+  text-align:right;
+}
+.self-assesment {
+  float:left;
+}
